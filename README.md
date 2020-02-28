@@ -18,7 +18,7 @@ Mostly to learn more about bash navigation and building GUI's. But also to brows
 MODULES:  
  -Tkinter
 
-SCREENSHOTS:
+SCREENSHOTS:    
 ![](screenshots/GUI_Window.png)
 ![](screenshots/Denied_Popup.png)
 ![](screenshots/Copy_Path.png)
