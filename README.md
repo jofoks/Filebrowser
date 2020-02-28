@@ -18,7 +18,7 @@ An early project of mine. A custom filebrowser for easy navigation through hidde
 Mostly to learn more about bash navigation and building GUI's. But also to browse through directories I couldnt before.
 
 ### MODULES:
- -Tkinter
+* Tkinter
 
 ## SCREENSHOTS:  
 ![](screenshots/GUI_Window.png)
